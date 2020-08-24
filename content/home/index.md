@@ -1,5 +1,5 @@
 ---
-title: "Tales from the Asian American Diaspora"
+title: "Tales from the Asian-American Diaspora"
 image: "images/index/cover.jpg"
 permalink: /home/
 description: 
