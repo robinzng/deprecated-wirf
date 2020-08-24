@@ -67,7 +67,7 @@ author = "Themefisher"
 # search  
 search = true
 # contact form action
-contact_form_action = "submit"
+contact_form_action = "#"
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
